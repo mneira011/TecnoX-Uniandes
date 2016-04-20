@@ -9,7 +9,7 @@ Si quieren aventurarse a realizar sus propios modelos, les recomendamos mirar un
 
 Hay dos modelos:
 
-El modelo DETERMINISTA. Aquí resolvimos las ecuaciones diferenciale utilizando el método de Runge-Kutta: https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods
+El modelo DETERMINISTA. Aquí resolvimos las ecuaciones diferenciales utilizando el método de Runge-Kutta: https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods
 
 El modelo ESTOCÁSTICO. Aquí se toma en cuenta el ruido del la célula al momento de resolver las ecuaciones diferenciales. Los siguientes links proporcionan infomacion sobre el método que se utilizó: Algoritmo Gillespie
 
@@ -40,7 +40,7 @@ In this repository you can find two pieces of code:
 
 The DETERMINISTIC model:Here we solved the differential equations using the Runge-Kutta method:https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods
 
-The STOCHASTIC model: Here we take into account the inherent noise of the system. To do this we implement the Gillespie Algorythm. If you wish to read up on that, se suggest:
+The STOCHASTIC model: Here we take into account the inherent noise of the system. To do this we implement the Gillespie Algorithm. If you wish to read up on that, se suggest:
 
 https://en.wikipedia.org/wiki/Gillespie_algorithm
 
