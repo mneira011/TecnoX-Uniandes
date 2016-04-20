@@ -9,6 +9,8 @@ Si quieren aventurarse a realizar sus propios modelos, les recomendamos mirar un
 
 http://2014.igem.org/Team:Colombia/DoItYourself
 
+
+
 Hay dos modelos:
 
 El modelo DETERMINISTA. 
